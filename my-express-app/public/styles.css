@@ -12,8 +12,6 @@
   padding: 10px;
   box-shadow: 0px 0px 15px 5px rgba(141, 141, 141, 0.3);
   background-color:rgba(0, 0, 0, 0.449)
-
-
 }
 #connt {
   display: flex;
@@ -39,4 +37,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.main-include-2 {
+  width: 36%;
+  border: 2px solid black;
+  border-radius:16px ;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  box-shadow: 0px 0px 15px 5px rgba(141, 141, 141, 0.3);
+  background-color:rgba(0, 0, 0, 0.449)
+}
+#updatebtn{
+  margin-left: 30%;
+}
+#npass {
+  width: 100%;
 }
